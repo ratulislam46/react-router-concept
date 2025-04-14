@@ -7,7 +7,7 @@ const Posts = ({postsPromise}) => {
 
     return (
         <div>
-            <h2>this is posts...</h2>
+            <h2>This is posts...</h2>
         </div>
     );
 };
