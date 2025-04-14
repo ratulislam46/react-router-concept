@@ -5,7 +5,7 @@ import Album from '../Album/Album';
 const Albums = () => {
     const albums = useLoaderData();
 
-    console.log(albums);
+    // console.log(albums);
     return (
         <div>
             <h3>This is albums ... {albums.length}</h3>
